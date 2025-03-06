@@ -3,3 +3,10 @@ img{
     width: 25%;
     margin: 0 auto;
 }
+
+.error-output{
+    margin-left: 10px;
+    font-size: 20px;
+    font-style: italic;
+    color: red;
+}
